@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: Clara Joe's Recipe Box
 type: docs
 ---
 

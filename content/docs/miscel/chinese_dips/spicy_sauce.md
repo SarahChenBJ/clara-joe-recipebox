@@ -1,7 +1,7 @@
 ---
-title: Chinese Dips - Spicy Dip
-weight: 1
+title: Spicy Sauce
 ---
+# Chinese Dips - Spicy Sauce
 
 - 1 tsp sugar
 - 1 T vinger

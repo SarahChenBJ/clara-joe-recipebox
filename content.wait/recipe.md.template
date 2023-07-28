@@ -1,0 +1,23 @@
+---
+title: {:db_title}
+---
+
+# Strawberry Salad
+> {:db_story}
+
+<div style="text-align: right"> From {:db_author} </div>
+
+![{:db_title}]({:db_img_url})
+
+
+**Serves: {:db_serves}**
+
+
+## Ingredients
+- 1 cup, flour
+- 2 tbsp, sugar
+- ... 
+
+## Instructions
+### {:db_group_title}
+{:db_steps}
